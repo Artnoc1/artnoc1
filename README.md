@@ -1,4 +1,5 @@
-### Hi there <!-- 👋 -->
+Hi there <!-- 👋 -->
+===  
 
 **[README.md](https://github.com/Artnoc1/artnoc1/README.md)** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
