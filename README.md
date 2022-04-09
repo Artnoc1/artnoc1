@@ -1,5 +1,4 @@
 # README
-===
 
 ---
 >[README](https://raw.githubusercontent.com/Artnoc1/artnoc1/0_main_0/README.md) is a _special_ repository because its README.md appears on your GitHub profile.
