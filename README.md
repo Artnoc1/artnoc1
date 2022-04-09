@@ -1,9 +1,7 @@
 #README
 =========
-
 ---
 >[README](https://raw.githubusercontent.com/Artnoc1/artnoc1/0_main_0/README.md) is a _special_ repository because its README.md appears on your GitHub profile.
-
 ---
 <!--1--><!--1-->
 <!--2--><br><!--2-->
@@ -15,7 +13,6 @@
 <!--8--><br><!--8-->
 <!--9--><!--9-->
 <!--0--><br><!--0-->
-
 ---
 <details markdown='1'><summary>
 #HERE ARE SOME IDEAS TO GET YOU STARTED:#
@@ -27,7 +24,6 @@
 \#####2\. . . .\. . . .\. . . .\. . . .<br><br>
 \#####3\. . . .\. . . .\. . . .\. . . .<br><br>
 \#####4\. . . .\. . . .\. . . .\. . . .<br><br>
-
 	</details><br><!----><!---->
 	<details markdown='1'><summary>
 \	CURRENTLY LEARNING:	\
@@ -36,7 +32,6 @@
 \####\2\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\3\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\4\. . . .\. . . .\. . . .\. . . .<br><br>
-
 	</details><br><!----><!---->
 	<details markdown='1'><summary>
 \	LOOKING TO COLLABORATE ON:	\
@@ -45,7 +40,6 @@
 \####\2\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\3\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\4\. . . .\. . . .\. . . .\. . . .<br><br>
-
 	</details><br><!----><!---->
 	<details markdown='1'><summary>
 \	LOOKING FOR HELP WITH:	\</summary><br>
@@ -53,7 +47,6 @@
 \####\2\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\3\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\4\. . . .\. . . .\. . . .\. . . .<br><br>
-
 	</details><br><!----><!---->
 	<details markdown='1'><summary>
 \	ASK ME ABOUT:	\
@@ -62,7 +55,6 @@
 \####\2\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\3\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\4\. . . .\. . . .\. . . .\. . . .<br><br>
-
 	</details><br><!----><!---->
 	<details markdown='1'><summary>
 \	HOW TO REACH ME:	\
@@ -71,7 +63,6 @@
 \####\2\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\3\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\4\. . . .\. . . .\. . . .\. . . .<br><br>
-
 	</details><br><!----><!---->  
 	<details markdown='1'><summary>
 \	PRONOUNS:	\
@@ -80,7 +71,6 @@
 \####\2\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\3\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\4\. . . .\. . . .\. . . .\. . . .<br><br>
-
 	</details><br><!----><!---->
 	<details markdown='1'><summary>
 \	FUN FACT:	\
@@ -89,9 +79,7 @@
 \####\2\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\3\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\4\. . . .\. . . .\. . . .\. . . .<br><br>
-
 	</details><br><!----><!---->
 </details>
 <!--	FOOTER	--><!--	/FOOTER	-->
-
 ---  
