@@ -15,7 +15,8 @@
 #HERE ARE SOME IDEAS TO GET YOU STARTED:#</summary><br>
 <details markdown='1'><summary>
 \	"CURRENTLY WORKING ON:"	\</summary><br>
-<a href="\###\#1\. . . .\. . . .\. . . .\">#1</a><br><br>
+<a href="\###\#1\. . . .\. . . .\. . . .\">
+\####\1\</a><br><br>
 \#####2\. . . .\. . . .\. . . .\. . . .<br><br>
 \#####3\. . . .\. . . .\. . . .\. . . .<br><br>
 \#####4\. . . .\. . . .\. . . .\. . . .<br><br>
