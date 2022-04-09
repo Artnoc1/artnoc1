@@ -34,41 +34,41 @@
 \####\3\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\4\. . . .\. . . .\. . . .\. . . .<br><br>
 </details><br><!----><!---->
-	<details markdown='1'><summary>
+<details markdown='1'><summary>
 \	LOOKING FOR HELP WITH:	\</summary><br>
 \####\1\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\2\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\3\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\4\. . . .\. . . .\. . . .\. . . .<br><br>
-	</details><br><!----><!---->
-	<details markdown='1'><summary>
+</details><br><!----><!---->
+<details markdown='1'><summary>
 \	ASK ME ABOUT:	\</summary><br>
 \####\1\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\2\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\3\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\4\. . . .\. . . .\. . . .\. . . .<br><br>
-	</details><br><!----><!---->
-	<details markdown='1'><summary>
+</details><br><!----><!---->
+<details markdown='1'><summary>
 \	HOW TO REACH ME:	\</summary><br>
 \####\1\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\2\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\3\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\4\. . . .\. . . .\. . . .\. . . .<br><br>
-	</details><br><!----><!---->  
-	<details markdown='1'><summary>
+</details><br><!----><!---->  
+<details markdown='1'><summary>
 \	PRONOUNS:	\</summary><br>
 \####\1\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\2\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\3\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\4\. . . .\. . . .\. . . .\. . . .<br><br>
-	</details><br><!----><!---->
-	<details markdown='1'><summary>
+</details><br><!----><!---->
+<details markdown='1'><summary>
 \	FUN FACT:	\</summary><br>
 \####\1\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\2\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\3\. . . .\. . . .\. . . .\. . . .<br><br>
 \####\4\. . . .\. . . .\. . . .\. . . .<br><br>
-	</details><br><!----><!---->
+</details><br><!----><!---->
 </details><br><!--	FOOTER	--><!--	/FOOTER	-->
 
 ---
