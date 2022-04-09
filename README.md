@@ -5,15 +5,15 @@
 >[README](https://raw.githubusercontent.com/Artnoc1/artnoc1/0_main_0/README.md) is a _special_ repository because its README.md appears on your GitHub profile.
 
 ---
-<!--1--><br><!--1-->
+<!--1--><!--1-->
 <!--2--><br><!--2-->
-<!--3--><br><!--3-->
+<!--3--><!--3-->
 <!--4--><br><!--4-->
-<!--5--><br><!--5-->
+<!--5--><!--5-->
 <!--6--><br><!--6-->
-<!--7--><br><!--7-->
+<!--7--><!--7-->
 <!--8--><br><!--8-->
-<!--9--><br><!--9-->
+<!--9--><!--9-->
 <!--0--><br><!--0-->
 
 ---
