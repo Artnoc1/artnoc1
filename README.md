@@ -52,117 +52,13 @@
 >>>	\____\____\____\	1.4.4	\<br><br>
 >>>	</details><br>
 
->>	</details><br><!---->	<!---->
+>>	</details><br>
+
+>	</details><br>
 
 <details markdown='1'>
-<summary>\	2:	\</summary><br>
+<summary>\	CURRENTLY LEARNING:	\</summary><br>
 
-<details markdown='1'>
-<summary>\	2.1:	\</summary><br>
-\#####1\\\\<br><br>
-\#####2\\\\<br><br>
-\#####3\\\\<br><br>
-\#####4\\\\<br><br>
-</details><br><!---->	<!---->
-
-<details markdown='1'>
-<summary>\	2.2:	\</summary><br>
-\#####1\\\\<br><br>
-\#####2\\\\<br><br>
-\#####3\\\\<br><br>
-\#####4\\\\<br><br>
-</details><br><!---->	<!---->
-
-<details markdown='1'>
-<summary>\	2.3:	\</summary><br>
-\#####1\\\\<br><br>
-\#####2\\\\<br><br>
-\#####3\\\\<br><br>
-\#####4\\\\<br><br>
-</details><br><!---->	<!---->
-
-<details markdown='1'>
-<summary>\	2.4:	\</summary><br>
-\#####1\\\\<br><br>
-\#####2\\\\<br><br>
-\#####3\\\\<br><br>
-\#####4\\\\<br><br>
-</details><br><!---->	<!---->
-</details><br><!---->	<!---->
-
-<details markdown='1'>
-<summary>\	3:	\</summary><br>
-<details markdown='1'>
-<summary>\	3.1:	\</summary><br>
-\#####1\\\\<br><br>
-\#####2\\\\<br><br>
-\#####3\\\\<br><br>
-\#####4\\\\<br><br>
-</details><br><!---->	<!---->
-
-<details markdown='1'>
-<summary>\	3.2:	\</summary><br>
-\#####1\\\\<br><br>
-\#####2\\\\<br><br>
-\#####3\\\\<br><br>
-\#####4\\\\<br><br>
-</details><br><!---->	<!---->
-
-<details markdown='1'>
-<summary>\	3.3:	\</summary><br>
-\#####1\\\\<br><br>
-\#####2\\\\<br><br>
-\#####3\\\\<br><br>
-\#####4\\\\<br><br>
-</details><br><!---->	<!---->
-
-<details markdown='1'>
-<summary>\	3.4:	\</summary><br>
-\#####1\\\\<br><br>
-\#####2\\\\<br><br>
-\#####3\\\\<br><br>
-\#####4\\\\<br><br>
-</details><br><!---->	<!---->
-</details><br><!---->	<!---->
-
-<details markdown='1'>
-<summary>\	4:	\</summary><br>
-<details markdown='1'>
-<summary>\	4.1:	\</summary><br>
-\#####1\\\\<br><br>
-\#####2\\\\<br><br>
-\#####3\\\\<br><br>
-\#####4\\\\<br><br>
-</details><br><!---->	<!---->
-
-<details markdown='1'>
-<summary>\	4.2:	\</summary><br>
-\#####1\\\\<br><br>
-\#####2\\\\<br><br>
-\#####3\\\\<br><br>
-\#####4\\\\<br><br>
-</details><br><!---->	<!---->
-
-<details markdown='1'>
-<summary>\	4.3:	\</summary><br>
-\#####1\\\\<br><br>
-\#####2\\\\<br><br>
-\#####3\\\\<br><br>
-\#####4\\\\<br><br>
-</details><br><!---->	<!---->
-
-<details markdown='1'>
-<summary>\	4.4:	\</summary><br>
-\#####1\\\\<br><br>
-\#####2\\\\<br><br>
-\#####3\\\\<br><br>
-\#####4\\\\<br><br>
-</details><br><!---->	<!---->
-</details><br><!---->	<!---->
-</details><br><!---->	<!---->
-
-<details markdown='1'><summary>
-\	CURRENTLY LEARNING:	\</summary><br>
 <details markdown='1'><summary>
 \	1:	\</summary><br>
 \#####1\\\\<br><br>
