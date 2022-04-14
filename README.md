@@ -18,10 +18,15 @@
 >>	<details markdown='1'><summary>\	1:	\</summary>
 
 >>>	<details markdown='1'><summary>\____\	1.1:	\</summary>
+
 >>>	\____\____\____\	1.1.1	\<br><br>
+
 >>>	\____\____\____\	1.1.2	\<br><br>
+
 >>>	\____\____\____\	1.1.3	\<br><br>
+
 >>>	\____\____\____\	1.1.4	\<br><br>
+
 >>>	</details>
 
 >>>	<details markdown='1'>
