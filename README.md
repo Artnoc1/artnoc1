@@ -14,19 +14,19 @@
 <details markdown='1'>
 <summary>#HERE ARE SOME IDEAS TO GET YOU STARTED:#</summary><br>
 
->	<details markdown='1'>
+>    <details markdown='1'>
 >    <summary>\	"CURRENTLY WORKING ON:"	\</summary><br>
 
->    <details markdown='1'>
->    <summary>\	1:	\</summary><br>
+>>    <details markdown='1'>
+>>    <summary>\	1:	\</summary><br>
 
->        <details markdown='1'>
->        <summary>\____\	1.1:	\</summary><br>
->            --->\____\____\    1.1.1    \<br><br>
->            --->\____\____\    1.1.2    \<br><br>
->            --->\____\____\    1.1.3    \<br><br>
->            --->\____\____\    1.1.4    \<br><br>
->        </details><br>
+>>>    <details markdown='1'>
+>>>    <summary>\____\	1.1:	\</summary><br>
+>>>    --->\____\____\    1.1.1    \<br><br>
+>>>    --->\____\____\    1.1.2    \<br><br>
+>>>    --->\____\____\    1.1.3    \<br><br>
+>>>    --->\____\____\    1.1.4    \<br><br>
+>>>    </details><br>
 
         	<details markdown='1'>
         	<summary>\_\	1.2:	\</summary><br>
