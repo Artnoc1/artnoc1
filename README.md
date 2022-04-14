@@ -15,59 +15,220 @@
 #HERE ARE SOME IDEAS TO GET YOU STARTED:#</summary><br>
 <details markdown='1'><summary>
 \	"CURRENTLY WORKING ON:"	\</summary><br>
-<a href="\#####1\">\#####1\</a><br><br>
-\#####2\....\....\....\....<br><br>
-\#####3\....\....\....\....<br><br>
-\#####4\....\....\....\....<br><br>
+
+<details markdown='1'>
+<summary>\	1:	\</summary><br>
+<details markdown='1'>
+<summary>\____\	1.1:	\</summary><br>
+-->\____\____\    1.1.1    \<br><br>
+-->##\____\____\    1.1.2    \<br><br>
+-->##\____\____\    1.1.3    \<br><br>
+-->##\____\____\    1.1.4    \<br><br>
+</details><br>
+<details markdown='1'>
+<summary>\_\	1.2:	\</summary><br>
+\#####1\\\\<br><br>
+\#####2\\\\<br><br>
+\#####3\\\\<br><br>
+\#####4\\\\<br><br>
+</details><br>
+<details markdown='1'>
+<summary>\	1.3:	\</summary><br>
+\#####1\\\\<br><br>
+\#####2\\\\<br><br>
+\#####3\\\\<br><br>
+\#####4\\\\<br><br>
+</details><br>
+<details markdown='1'>
+<summary>\	1.4:	\</summary><br>
+\#####1\\\\<br><br>
+\#####2\\\\<br><br>
+\#####3\\\\<br><br>
+\#####4\\\\<br><br>
+</details><br>
 </details><br><!---->    <!---->
+
+<details markdown='1'>
+<summary>\	2:	\</summary><br>
+<details markdown='1'>
+<summary>\	2.1:	\</summary><br>
+\#####1\\\\<br><br>
+\#####2\\\\<br><br>
+\#####3\\\\<br><br>
+\#####4\\\\<br><br>
+</details><br><!---->    <!---->
+
+<details markdown='1'>
+<summary>\	2.2:	\</summary><br>
+\#####1\\\\<br><br>
+\#####2\\\\<br><br>
+\#####3\\\\<br><br>
+\#####4\\\\<br><br>
+</details><br><!---->    <!---->
+
+<details markdown='1'>
+<summary>\	2.3:	\</summary><br>
+\#####1\\\\<br><br>
+\#####2\\\\<br><br>
+\#####3\\\\<br><br>
+\#####4\\\\<br><br>
+</details><br><!---->    <!---->
+
+<details markdown='1'>
+<summary>\	2.4:	\</summary><br>
+\#####1\\\\<br><br>
+\#####2\\\\<br><br>
+\#####3\\\\<br><br>
+\#####4\\\\<br><br>
+</details><br><!---->    <!---->
+</details><br><!---->    <!---->
+
+<details markdown='1'>
+<summary>\	3:	\</summary><br>
+<details markdown='1'>
+<summary>\	3.1:	\</summary><br>
+\#####1\\\\<br><br>
+\#####2\\\\<br><br>
+\#####3\\\\<br><br>
+\#####4\\\\<br><br>
+</details><br><!---->    <!---->
+
+<details markdown='1'>
+<summary>\	3.2:	\</summary><br>
+\#####1\\\\<br><br>
+\#####2\\\\<br><br>
+\#####3\\\\<br><br>
+\#####4\\\\<br><br>
+</details><br><!---->    <!---->
+
+<details markdown='1'>
+<summary>\	3.3:	\</summary><br>
+\#####1\\\\<br><br>
+\#####2\\\\<br><br>
+\#####3\\\\<br><br>
+\#####4\\\\<br><br>
+</details><br><!---->    <!---->
+
+<details markdown='1'>
+<summary>\	3.4:	\</summary><br>
+\#####1\\\\<br><br>
+\#####2\\\\<br><br>
+\#####3\\\\<br><br>
+\#####4\\\\<br><br>
+</details><br><!---->    <!---->
+</details><br><!---->    <!---->
+
+<details markdown='1'>
+<summary>\	4:	\</summary><br>
+<details markdown='1'>
+<summary>\	4.1:	\</summary><br>
+\#####1\\\\<br><br>
+\#####2\\\\<br><br>
+\#####3\\\\<br><br>
+\#####4\\\\<br><br>
+</details><br><!---->    <!---->
+
+<details markdown='1'>
+<summary>\	4.2:	\</summary><br>
+\#####1\\\\<br><br>
+\#####2\\\\<br><br>
+\#####3\\\\<br><br>
+\#####4\\\\<br><br>
+</details><br><!---->    <!---->
+
+<details markdown='1'>
+<summary>\	4.3:	\</summary><br>
+\#####1\\\\<br><br>
+\#####2\\\\<br><br>
+\#####3\\\\<br><br>
+\#####4\\\\<br><br>
+</details><br><!---->    <!---->
+
+<details markdown='1'>
+<summary>\	4.4:	\</summary><br>
+\#####1\\\\<br><br>
+\#####2\\\\<br><br>
+\#####3\\\\<br><br>
+\#####4\\\\<br><br>
+</details><br><!---->    <!---->
+</details><br><!---->    <!---->
+</details><br><!---->    <!---->
+
 <details markdown='1'><summary>
 \	CURRENTLY LEARNING:	\</summary><br>
-\#####1\....\....\....\....<br><br>
-\#####2\....\....\....\....<br><br>
-\#####3\....\....\....\....<br><br>
-\#####4\....\....\....\....<br><br>
+<details markdown='1'><summary>
+\	1:	\</summary><br>
+\#####1\\\\<br><br>
+\#####2\\\\<br><br>
+\#####3\\\\<br><br>
+\#####4\\\\<br><br>
+</details><br><!---->    <!---->
+
+<details markdown='1'><summary>
+\	2:	\</summary><br>
+\#####1\\\\<br><br>
+\#####2\\\\<br><br>
+\#####3\\\\<br><br>
+\#####4\\\\<br><br>
+</details><br><!---->    <!---->
+
+<details markdown='1'><summary>
+\	3:	\</summary><br>
+\#####1\\\\<br><br>
+\#####2\\\\<br><br>
+\#####3\\\\<br><br>
+\#####4\\\\<br><br>
+</details><br><!---->    <!---->
+
+<details markdown='1'><summary>
+\	4:	\</summary><br>
+\#####1\\\\<br><br>
+\#####2\\\\<br><br>
+\#####3\\\\<br><br>
+\#####4\\\\<br><br>
+</details><br><!---->    <!---->
 </details><br><!---->    <!---->
 <details markdown='1'><summary>
 \	LOOKING TO COLLABORATE ON:	\</summary><br>
-\####\1\....\....\....\....<br><br>
-\####\2\....\....\....\....<br><br>
-\####\3\....\....\....\....<br><br>
-\####\4\....\....\....\....<br><br>
+\####\1\\\\<br><br>
+\####\2\\\\<br><br>
+\####\3\\\\<br><br>
+\####\4\\\\<br><br>
 </details><br><!---->    <!---->
 <details markdown='1'><summary>
 \	LOOKING FOR HELP WITH:	\</summary><br>
-\####\1\....\....\....\....<br><br>
-\####\2\....\....\....\....<br><br>
-\####\3\....\....\....\....<br><br>
-\####\4\....\....\....\....<br><br>
+\####\1\\\\<br><br>
+\####\2\\\\<br><br>
+\####\3\\\\<br><br>
+\####\4\\\\<br><br>
 </details><br><!---->    <!---->
 <details markdown='1'><summary>
 \	ASK ME ABOUT:	\</summary><br>
-\####\1\....\....\....\....<br><br>
-\####\2\....\....\....\....<br><br>
-\####\3\....\....\....\....<br><br>
-\####\4\....\....\....\....<br><br>
+\####\1\\\\<br><br>
+\####\2\\\\<br><br>
+\####\3\\\\<br><br>
+\####\4\\\\<br><br>
 </details><br><!---->    <!---->
 <details markdown='1'><summary>
 \	HOW TO REACH ME:	\</summary><br>
-\####\1\....\....\....\....<br><br>
-\####\2\....\....\....\....<br><br>
-\####\3\....\....\....\....<br><br>
-\####\4\....\....\....\....<br><br>
+\####\1\\\\<br><br>
+\####\2\\\\<br><br>
+\####\3\\\\<br><br>
+\####\4\\\\<br><br>
 </details><br><!---->    <!---->  
 <details markdown='1'><summary>
 \	PRONOUNS:	\</summary><br>
-\####\1\....\....\....\....<br><br>
-\####\2\....\....\....\....<br><br>
-\####\3\....\....\....\....<br><br>
-\####\4\....\....\....\....<br><br>
+\####\1\\\\<br><br>
+\####\2\\\\<br><br>
+\####\3\\\\<br><br>
+\####\4\\\\<br><br>
 </details><br><!---->    <!---->
 <details markdown='1'><summary>
 \	FUN FACT:	\</summary><br>
-\####\1\....\....\....\....<br><br>
-\####\2\....\....\....\....<br><br>
-\####\3\....\....\....\....<br><br>
-\####\4\....\....\....\....<br><br>
+\####\1\\\\<br><br>
+\####\2\\\\<br><br>
+\####\3\\\\<br><br>
+\####\4\\\\<br><br>
 </details><br><!---->    <!---->
 </details><br><!--	FOOTER	-->    <!--	/FOOTER	-->
 
