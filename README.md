@@ -11,17 +11,13 @@
 <!--8--><!--9-->|<!--9--><!--0-->|<br>
 
 ---  
-<details markdown='1'>
-<summary>#HERE ARE SOME IDEAS TO GET YOU STARTED:#</summary>
+<details markdown='1'><summary>#HERE ARE SOME IDEAS TO GET YOU STARTED:#</summary>
 
->	<details markdown='1'>
->	<summary>\	"CURRENTLY WORKING ON:"	\</summary>
+>	<details markdown='1'><summary>\	"CURRENTLY WORKING ON:"	\</summary>
 
->>	<details markdown='1'>
->>	<summary>\	1:	\</summary>
+>>	<details markdown='1'><summary>\	1:	\</summary>
 
->>>	<details markdown='1'>
->>>	<summary>\____\	1.1:	\</summary>
+>>>	<details markdown='1'><summary>\____\	1.1:	\</summary>
 >>>	\____\____\____\	1.1.1	\<br><br>
 >>>	\____\____\____\	1.1.2	\<br><br>
 >>>	\____\____\____\	1.1.3	\<br><br>
